@@ -1,0 +1,31 @@
+{
+    "name": "node.js_2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "demo1": "ts-node demos/demo1/app",
+        "demo2": "ts-node demos/demo2/app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gujiajia/node.js_2.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gujiajia/node.js_2/issues"
+    },
+    "homepage": "https://github.com/gujiajia/node.js_2#readme",
+    "dependencies": {
+        "@types/body-parser": "^0.0.33",
+        "@types/ejs": "^2.3.33",
+        "@types/express": "^4.0.34",
+        "@types/jquery": "^2.0.39",
+        "body-parser": "^1.15.2",
+        "bootstrap": "^3.3.5",
+        "ejs": "^2.5.5",
+        "express": "^4.14.0",
+        "jquery": "^3.1.1"
+    }
+}
